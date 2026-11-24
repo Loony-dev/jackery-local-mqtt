@@ -1,0 +1,12 @@
+{
+  "topic": "hb/device/HS2C0EXAMPLE001/event",
+  "payload": {
+    "type": 123,
+    "eventId": 0,
+    "messageId": 5105,
+    "ts": 1795556401,
+    "body": {
+      "errorCode": 401
+    }
+  }
+}

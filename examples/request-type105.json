@@ -1,0 +1,11 @@
+{
+  "topic": "hb/device/HS2C0EXAMPLE001/action",
+  "payload": {
+    "body": null,
+    "eventId": 0,
+    "messageId": 7759,
+    "token": "12345678",
+    "ts": 1795556302,
+    "type": 105
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "topic": "hb/device/HS2C0EXAMPLE001/event",
+  "payload": {
+    "type": 101,
+    "eventId": 0,
+    "messageId": 5103,
+    "ts": 1795556393,
+    "deviceType": 3,
+    "body": {
+      "cmd": 110,
+      "devType": 6,
+      "plugs": []
+    }
+  }
+}

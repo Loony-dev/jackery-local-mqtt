@@ -1,0 +1,15 @@
+{
+  "topic": "hb/device/HS2C0EXAMPLE001/action",
+  "payload": {
+    "type": 1,
+    "eventId": 3,
+    "messageId": 4821,
+    "ts": 1795556302,
+    "token": "12345678",
+    "body": {
+      "cmd": 5,
+      "rc": 1,
+      "socDischgLimit": 15
+    }
+  }
+}

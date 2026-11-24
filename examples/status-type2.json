@@ -1,0 +1,70 @@
+{
+  "topic": "hb/device/HS2C0EXAMPLE001/status",
+  "payload": {
+    "type": 2,
+    "eventId": 0,
+    "messageId": 1932,
+    "ts": 1795556302,
+    "deviceType": 3,
+    "body": {
+      "cmd": 106,
+      "batSoc": 97,
+      "batInPw": 263,
+      "batOutPw": 0,
+      "stackInPw": 266,
+      "stackOutPw": 0,
+      "cellTemp": 447,
+      "soc": 97,
+      "swEpsInPw": 0,
+      "swEpsOutPw": 269,
+      "swEpsState": 1,
+      "inOngridPw": 591,
+      "outOngridPw": 0,
+      "batNum": 0,
+      "pvPw": 0,
+      "pv1": {
+        "pvPw": 0,
+        "commState": 0
+      },
+      "pv2": {
+        "pvPw": 0,
+        "commState": 0
+      },
+      "pv3": {
+        "pvPw": 0,
+        "commState": 0
+      },
+      "pv4": {
+        "pvPw": 0,
+        "commState": 0
+      },
+      "ethPort": 0,
+      "ability": 3840,
+      "wname": "MyWiFi",
+      "batState": 1,
+      "socChgLimit": 100,
+      "socDischgLimit": 10,
+      "socForceChg": 0,
+      "autoStandby": 2,
+      "swEps": 1,
+      "maxInvStdPw": 2500,
+      "maxGridStdPw": 800,
+      "maxOutPw": 800,
+      "wip": "192.168.1.77",
+      "eip": "0.0.0.0",
+      "mac": "AA:BB:CC:00:00:01",
+      "wsig": -26,
+      "maxIotNum": 8,
+      "emac": "AA:BB:CC:00:00:02",
+      "maxCellTemp": 455,
+      "minCellTemp": 421,
+      "maxCellVolt": 34160,
+      "minCellVolt": 34060,
+      "stackChgCurLimit": 60,
+      "stackDischgCurLimit": 600,
+      "emsChgCurLimit": 60,
+      "emsDischgCurLimit": 600,
+      "pcsSetPw": 0
+    }
+  }
+}

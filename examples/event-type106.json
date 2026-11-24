@@ -1,0 +1,59 @@
+{
+  "topic": "hb/device/HS2C0EXAMPLE001/event",
+  "payload": {
+    "type": 106,
+    "eventId": 0,
+    "messageId": 7759,
+    "ts": 1795556302,
+    "deviceType": 3,
+    "body": {
+      "cmd": 120,
+      "stat": 0,
+      "ongridStat": 1,
+      "ctStat": 0,
+      "gridSate": 0,
+      "gridInPw": 591,
+      "gridOutPw": 0,
+      "otherLoadPw": 0,
+      "soc": 97,
+      "batNum": 0,
+      "inGridSidePw": 591,
+      "outGridSidePw": 0,
+      "batInPw": 266,
+      "batOutPw": 0,
+      "workModel": 4,
+      "batState": 1,
+      "maxFeedGrid": 800,
+      "pvMaxChgPower": 0,
+      "maxSysOutPw": 800,
+      "maxSysInPw": 2500,
+      "swEpsInPw": 0,
+      "swEpsOutPw": 269,
+      "energyPlanPw": 0,
+      "chargePlanPw": 2000,
+      "defaultPw": 0,
+      "isFollowMeterPw": 0,
+      "wps": 0,
+      "wpc": 0,
+      "isAutoStandby": 1,
+      "standbyPw": 25,
+      "offGridDown": 1,
+      "offGridTime": 120,
+      "tempUnit": 0,
+      "funcEnable": 2147483648,
+      "pvPw": 0,
+      "pv1": {
+        "pvPw": 0
+      },
+      "pv2": {
+        "pvPw": 0
+      },
+      "pv3": {
+        "pvPw": 0
+      },
+      "pv4": {
+        "pvPw": 0
+      }
+    }
+  }
+}
